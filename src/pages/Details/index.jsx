@@ -16,6 +16,14 @@ export function Details() {
         <Content>
           <ButtonText title="Excluir nota" />
 
+          <h1>
+            Introducao ao React
+          </h1>
+
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem quia adipisci eligendi saepe repellendus maxime distinctio fuga blanditiis facere non dolorem, perspiciatis velit nulla? Officiis quibusdam veniam debitis culpa quos?
+          </p>
+
           <Section title="Links úteis">
             <Links>
               <li><a href="#">https://github.com/luismelle</a></li>
